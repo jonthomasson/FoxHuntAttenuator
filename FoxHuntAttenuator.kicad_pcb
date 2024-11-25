@@ -93,11 +93,11 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "09040cc7-66db-4672-8db1-c4646c513cb5")
-		(at 100.69 130.39 180)
+		(at 104.14 129.794 180)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=12.7mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 12.7mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "R1"
-			(at 6.35 -2.72 360)
+			(at 6.35 2.54 360)
 			(layer "F.SilkS")
 			(uuid "a1f735af-54ac-4dff-a7bd-2babcca2d848")
 			(effects
@@ -368,11 +368,11 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "0ac010d4-f13b-4c78-9486-1f86b1fa281c")
-		(at 210.87 127.81 90)
+		(at 219.964 126.746 90)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=12.7mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 12.7mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "R23"
-			(at 6.35 -2.72 90)
+			(at 14.732 0 180)
 			(layer "F.SilkS")
 			(uuid "931ce843-14ca-454e-9826-def0143695db")
 			(effects
@@ -643,11 +643,11 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "0ddf7c19-5433-4343-8ebd-331ab5295136")
-		(at 207.63 131.12 180)
+		(at 216.916 129.794 180)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=12.7mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 12.7mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "R19"
-			(at 6.35 -2.72 360)
+			(at 6.35 2.794 360)
 			(layer "F.SilkS")
 			(uuid "78a503f8-ce05-41c7-a15d-2d568436f6c9")
 			(effects
@@ -918,7 +918,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "1b7e5f11-855f-485f-973d-681ccc42afeb")
-		(at 207.87 111.9 180)
+		(at 216.916 110.998 180)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=12.7mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 12.7mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "R21"
@@ -1193,11 +1193,11 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "21a4c913-81c0-42aa-b1a8-729153fdad09")
-		(at 173.21 127.74 90)
+		(at 182.372 126.746 90)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=12.7mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 12.7mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "R17"
-			(at 6.35 -2.72 90)
+			(at 14.732 0 180)
 			(layer "F.SilkS")
 			(uuid "dd370547-9add-470e-be1a-9124a4ef1ecd")
 			(effects
@@ -1468,7 +1468,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "2a60c390-ac2f-4e48-8f99-9b2d0089eaec")
-		(at 100.62 111.47 180)
+		(at 104.14 110.998 180)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=12.7mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 12.7mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "R3"
@@ -1743,11 +1743,11 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "2e997fa0-67c3-4274-8e69-8a3df220e16c")
-		(at 135.88 114.81 -90)
+		(at 144.78 114.046 -90)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=12.7mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 12.7mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "R11"
-			(at 6.35 -2.72 90)
+			(at -2.032 0 180)
 			(layer "F.SilkS")
 			(uuid "65e38880-402d-4dee-8dc6-75edd93ee5fc")
 			(effects
@@ -2018,9 +2018,9 @@
 	(footprint "FoxHuntAttenuator:SWT3"
 		(layer "F.Cu")
 		(uuid "31671e8a-a0fc-4e4f-8acc-d04c7e453c0e")
-		(at 143.76 123.46 90)
+		(at 154.442 123.18 90)
 		(property "Reference" "SW4"
-			(at 0 -0.5 90)
+			(at 7.102 -0.01 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "6fe7dd67-482a-466e-b9b4-fc5a348cffd6")
@@ -2135,11 +2135,11 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "31cb81b3-ec31-4f11-b2b4-7f7d69b3c4ec")
-		(at 189.05 130.88 180)
+		(at 198.12 129.794 180)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=12.7mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 12.7mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "R16"
-			(at 6.35 -2.72 360)
+			(at 6.35 2.794 360)
 			(layer "F.SilkS")
 			(uuid "3ee5f607-e533-42f8-80b4-1e0f6f08cdc9")
 			(effects
@@ -2410,9 +2410,9 @@
 	(footprint "FoxHuntAttenuator:SWT3"
 		(layer "F.Cu")
 		(uuid "34ce2e5b-cce0-4000-a5e6-c84e633065dc")
-		(at 160.7 123.76 90)
+		(at 173.084 123.114 90)
 		(property "Reference" "SW5"
-			(at 0 -0.5 90)
+			(at 7.036 -0.11 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "2dbf63af-d572-4b3c-810e-d053b977098e")
@@ -2527,7 +2527,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "3aea536c-0fd3-4211-ad31-af1865ef5a88")
-		(at 151.58 111.82 180)
+		(at 160.528 110.998 180)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=12.7mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 12.7mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "R12"
@@ -2802,11 +2802,11 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "45072db0-65ba-45e7-aba8-b7c351a692ab")
-		(at 191.95 127.66 90)
+		(at 201.168 126.746 90)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=12.7mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 12.7mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "R20"
-			(at 6.35 -2.72 90)
+			(at 14.732 0 180)
 			(layer "F.SilkS")
 			(uuid "917c0823-c51a-401b-b8f5-7d2a2e08289f")
 			(effects
@@ -3077,11 +3077,11 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "491e5d5c-d9d9-4638-98ef-9d15e9569524")
-		(at 151.33 130.54 180)
+		(at 160.528 129.794 180)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=12.7mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 12.7mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "R10"
-			(at 6.35 -2.72 360)
+			(at 6.35 2.794 360)
 			(layer "F.SilkS")
 			(uuid "e5936117-b883-47f2-b565-a571cd82a777")
 			(effects
@@ -3352,11 +3352,11 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "4d7984f4-9849-42cd-89aa-f2fadc3d5daf")
-		(at 154.55 127.9 90)
+		(at 163.576 126.746 90)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=12.7mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 12.7mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "R14"
-			(at 6.35 -2.72 90)
+			(at 14.732 0 180)
 			(layer "F.SilkS")
 			(uuid "ddcbf179-aad5-44a9-87c1-c74180156dae")
 			(effects
@@ -3627,9 +3627,9 @@
 	(footprint "FoxHuntAttenuator:SWT3"
 		(layer "F.Cu")
 		(uuid "5bdf091c-abc6-4d99-adb0-1dc7031c3505")
-		(at 219.01 123.67 90)
+		(at 229.472 123.114 90)
 		(property "Reference" "SW8"
-			(at 0 -0.5 90)
+			(at 7.036 -0.11 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "50ddd733-8f54-4f63-be7b-cd4f1d61c812")
@@ -3744,11 +3744,11 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "654bcf71-22fd-424b-8f26-fba75ae85f40")
-		(at 117.18 127.38 90)
+		(at 125.984 126.746 90)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=12.7mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 12.7mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "R8"
-			(at 6.35 -2.72 90)
+			(at 14.732 0 180)
 			(layer "F.SilkS")
 			(uuid "1654472b-f777-4747-8f36-2dc70ff64b45")
 			(effects
@@ -4019,11 +4019,11 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "6af9d564-0d18-4ec0-b143-8e24ff04688c")
-		(at 103.97 114.64 -90)
+		(at 107.188 114.046 -90)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=12.7mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 12.7mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "R5"
-			(at 6.35 -2.72 90)
+			(at -1.778 0 180)
 			(layer "F.SilkS")
 			(uuid "e362e05b-c0d4-4f04-af98-eefde5141820")
 			(effects
@@ -4249,7 +4249,7 @@
 			(uuid "fc413659-41fc-4d56-8671-76470aa9849e")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 6.35 0 90)
+			(at 6.56 -13.193 90)
 			(layer "F.Fab")
 			(uuid "0ef9013f-e8a2-40b5-8b60-1614e5ee2b5f")
 			(effects
@@ -4294,11 +4294,11 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "6bc59765-ee48-499c-8756-0cecfbb2140f")
-		(at 87.94 127.19 90)
+		(at 88.392 126.746 90)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=12.7mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 12.7mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "R2"
-			(at 6.35 -2.72 90)
+			(at 14.732 0 180)
 			(layer "F.SilkS")
 			(uuid "3872e2f4-5eb3-444e-9461-b14697cbbffa")
 			(effects
@@ -4569,9 +4569,9 @@
 	(footprint "FoxHuntAttenuator:SWT3"
 		(layer "F.Cu")
 		(uuid "6d8313e2-4bfc-4545-bf52-c7c1453db6fc")
-		(at 200.98 123.6 90)
+		(at 210.576 123.18 90)
 		(property "Reference" "SW7"
-			(at 0 -0.5 90)
+			(at 7.102 -0.01 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "1cd41c2e-15e9-4c98-9ad3-988b6e0aeea4")
@@ -4686,9 +4686,9 @@
 	(footprint "FoxHuntAttenuator:SWT3"
 		(layer "F.Cu")
 		(uuid "835c5bec-458a-4694-95d0-f5cd46be3222")
-		(at 182.71 123.84 90)
+		(at 191.88 123.114 90)
 		(property "Reference" "SW6"
-			(at 0 -0.5 90)
+			(at 7.036 -0.11 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "7be17382-61c9-4247-877e-91fdd2b65de8")
@@ -4800,12 +4800,126 @@
 			(uuid "24a371b1-ec54-4945-8c3c-d06060306e0b")
 		)
 	)
+	(footprint "MountingHole:MountingHole_2.7mm_M2.5"
+		(layer "F.Cu")
+		(uuid "88aa7120-0655-41e2-baab-e1c55768e577")
+		(at 252.476 107.442)
+		(descr "Mounting Hole 2.7mm, no annular, M2.5")
+		(tags "mounting hole 2.7mm no annular m2.5")
+		(property "Reference" "H1"
+			(at 0 -3.7 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "51a0b76a-c5cf-4342-b15c-55dcb0b24f0c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 0 3.7 0)
+			(layer "F.Fab")
+			(uuid "1c90de72-9765-499b-8358-56d4c3b9eb4a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8da95731-d018-4b3d-b59f-4167fa9ea4f0")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fa0cc804-23f5-43ac-aedc-02e6d587e9d9")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c79b0b36-070d-4be3-87a6-7efe1e6ffbec")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "MountingHole*")
+		(path "/e1d6469c-7616-4aa4-b21c-e009cdb19770")
+		(sheetname "Root")
+		(sheetfile "FoxHuntAttenuator.kicad_sch")
+		(attr exclude_from_pos_files exclude_from_bom)
+		(fp_circle
+			(center 0 0)
+			(end 2.7 0)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(fill none)
+			(layer "Cmts.User")
+			(uuid "67afa7c9-3172-4b0a-9b16-e9bc5e64e5d3")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 2.95 0)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill none)
+			(layer "F.CrtYd")
+			(uuid "9dbe35d2-41ab-4c9e-847c-0cc003db15b8")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "35a466e8-5168-471a-9a2b-ea3f6f0b028e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "" np_thru_hole circle
+			(at 0 0)
+			(size 2.7 2.7)
+			(drill 2.7)
+			(layers "*.Cu" "*.Mask")
+			(uuid "aa89f942-4a84-454b-b9e8-ea3f65c16724")
+		)
+	)
 	(footprint "FoxHuntAttenuator:SWT3"
 		(layer "F.Cu")
 		(uuid "90e59301-cf12-4d0a-b1e7-3b97c1132606")
-		(at 95.94 123.62 90)
+		(at 97.9 123.114 90)
 		(property "Reference" "SW1"
-			(at 0 -0.5 90)
+			(at 7.29 -0.11 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "55af47af-caab-4335-8002-0d7122d28bff")
@@ -4917,14 +5031,128 @@
 			(uuid "bfee4f08-a61e-40b3-ad9e-014ee23a44d5")
 		)
 	)
+	(footprint "MountingHole:MountingHole_2.7mm_M2.5"
+		(layer "F.Cu")
+		(uuid "a7022ecc-9519-4fcb-a3e2-9dfb28267f01")
+		(at 252.222 133.604)
+		(descr "Mounting Hole 2.7mm, no annular, M2.5")
+		(tags "mounting hole 2.7mm no annular m2.5")
+		(property "Reference" "H2"
+			(at 0 -3.7 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "69f1278f-5a83-4cd8-8414-5bc5c53074db")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 0 3.7 0)
+			(layer "F.Fab")
+			(uuid "a2322f8d-8620-469f-a5e6-1c61963b2c11")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c307cf6b-8b04-40c5-bf81-b6adabbe41b6")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0e6ad60d-ec6e-49ca-86ba-2180ff236359")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fa5b8515-be30-43cf-a9a3-be8f25fa6b7e")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "MountingHole*")
+		(path "/20601f13-fc68-4354-95d4-a2fabc5f9118")
+		(sheetname "Root")
+		(sheetfile "FoxHuntAttenuator.kicad_sch")
+		(attr exclude_from_pos_files exclude_from_bom)
+		(fp_circle
+			(center 0 0)
+			(end 2.7 0)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(fill none)
+			(layer "Cmts.User")
+			(uuid "f9117d0e-7784-43bb-b6f3-edae6072024a")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 2.95 0)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill none)
+			(layer "F.CrtYd")
+			(uuid "fc8ddb22-2206-407d-9806-53823acb2666")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "7ab492d6-1ad0-4c19-b311-a6319c9f4229")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "" np_thru_hole circle
+			(at 0 0)
+			(size 2.7 2.7)
+			(drill 2.7)
+			(layers "*.Cu" "*.Mask")
+			(uuid "106c4866-fe94-4d94-803a-d067379f90a1")
+		)
+	)
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "b269eeb5-2cda-4314-847a-a103238d700c")
-		(at 104.25 111.61)
+		(at 110.236 110.998)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=12.7mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 12.7mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "R6"
-			(at 6.35 -2.72 0)
+			(at 6.35 2.794 0)
 			(layer "F.SilkS")
 			(uuid "28eb647c-cfa2-4681-b74c-47451a8ab18f")
 			(effects
@@ -5195,7 +5423,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "b487f2fb-ccde-4ac9-8570-cefe5055ad9c")
-		(at 226.71 111.97 180)
+		(at 235.712 110.998 180)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=12.7mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 12.7mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "R24"
@@ -5470,7 +5698,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "c1dd6701-604b-455f-85e0-49cc343c2ac5")
-		(at 132.74 111.61 180)
+		(at 141.732 110.998 180)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=12.7mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 12.7mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "R7"
@@ -5745,7 +5973,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "c2b3b688-2ca6-42ed-ad47-7519115bc52d")
-		(at 104.13 130.54)
+		(at 110.236 129.794)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=12.7mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 12.7mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "R4"
@@ -6020,11 +6248,11 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "c56ae564-148b-4c5d-834e-53cea8b6ff1b")
-		(at 226.6 131.03 180)
+		(at 235.712 129.794 180)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=12.7mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 12.7mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "R22"
-			(at 6.35 -2.72 360)
+			(at 6.35 2.794 360)
 			(layer "F.SilkS")
 			(uuid "5483598b-b6ca-4f21-8e75-636666aa5bc8")
 			(effects
@@ -6295,11 +6523,11 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "c57864ea-1146-4d8d-b987-12b8f1807145")
-		(at 170.23 130.96 180)
+		(at 179.324 129.794 180)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=12.7mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 12.7mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "R13"
-			(at 6.35 -2.72 360)
+			(at 6.35 2.794 0)
 			(layer "F.SilkS")
 			(uuid "7d7a8fcc-85e6-410a-97ca-f18aa8f358e3")
 			(effects
@@ -6570,9 +6798,9 @@
 	(footprint "FoxHuntAttenuator:SWT3"
 		(layer "F.Cu")
 		(uuid "d1a5fb27-7240-46fb-ab21-e44102fba3fc")
-		(at 111 123.69 90)
+		(at 116.596 123.114 90)
 		(property "Reference" "SW2"
-			(at 0 -0.5 90)
+			(at 7.29 -0.01 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "ae51b352-9a32-424e-82ca-c2c9aa3b7acd")
@@ -6687,9 +6915,9 @@
 	(footprint "FoxHuntAttenuator:SWT3"
 		(layer "F.Cu")
 		(uuid "d5b63cbc-64cc-4daf-83d0-ab2cba3a9c71")
-		(at 126.63 123.85 90)
+		(at 135.492 123.114 90)
 		(property "Reference" "SW3"
-			(at 0 -0.5 90)
+			(at 7.29 -0.11 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "3ee1a07f-5a5c-41cd-95a9-36f7cc097d47")
@@ -6801,14 +7029,128 @@
 			(uuid "b50e098b-cba3-4c97-810f-a4a97d1376da")
 		)
 	)
+	(footprint "MountingHole:MountingHole_2.7mm_M2.5"
+		(layer "F.Cu")
+		(uuid "e6431b86-04b4-4fe4-acda-ea12476d73ff")
+		(at 75.438 133.858)
+		(descr "Mounting Hole 2.7mm, no annular, M2.5")
+		(tags "mounting hole 2.7mm no annular m2.5")
+		(property "Reference" "H3"
+			(at 0 -3.7 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "e42c6313-488a-4dac-951a-3c74dca18b99")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 0 3.7 0)
+			(layer "F.Fab")
+			(uuid "2bc0796b-3aab-4bd4-806c-be817863415d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "922305e5-45f5-4b8c-a9b3-8a189777d5e5")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "30d8979a-b51c-4bb9-b6fd-d592425d884c")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b5a618b2-18f2-40d8-852b-ab6df7163e8d")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "MountingHole*")
+		(path "/a3526b1e-0605-4c66-9370-3f261bddf54a")
+		(sheetname "Root")
+		(sheetfile "FoxHuntAttenuator.kicad_sch")
+		(attr exclude_from_pos_files exclude_from_bom)
+		(fp_circle
+			(center 0 0)
+			(end 2.7 0)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(fill none)
+			(layer "Cmts.User")
+			(uuid "c34bb8e9-2e28-44b0-813c-256596d65257")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 2.95 0)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill none)
+			(layer "F.CrtYd")
+			(uuid "8dac62ce-3fb7-4e6c-b7cf-b4f5c48abea3")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "9443039a-ac76-446f-a7ae-30dad9658959")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "" np_thru_hole circle
+			(at 0 0)
+			(size 2.7 2.7)
+			(drill 2.7)
+			(layers "*.Cu" "*.Mask")
+			(uuid "b2f1686e-86c2-464b-95f8-252bbeb1043e")
+		)
+	)
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "ee694f4d-2e4b-4997-8984-7723923b8587")
-		(at 132.84 130.42 180)
+		(at 141.732 129.794 180)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=12.7mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 12.7mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "R9"
-			(at 6.35 -2.72 360)
+			(at 6.096 2.794 360)
 			(layer "F.SilkS")
 			(uuid "622e015a-a608-4e86-8490-710a910ffb13")
 			(effects
@@ -7079,7 +7421,7 @@
 	(footprint "FoxHuntAttenuator:CONBNC002"
 		(layer "F.Cu")
 		(uuid "f1a5d708-e095-47cc-9447-52c3ad986229")
-		(at 78.523 125.456 90)
+		(at 79.492 125.456 90)
 		(property "Reference" "J1"
 			(at 0 -0.5 90)
 			(unlocked yes)
@@ -7224,7 +7566,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "f1aa83ac-6650-4a7e-b808-13ca39404b8d")
-		(at 188.89 111.9 180)
+		(at 198.12 110.998 180)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=12.7mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 12.7mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "R18"
@@ -7499,7 +7841,7 @@
 	(footprint "FoxHuntAttenuator:CONBNC002"
 		(layer "F.Cu")
 		(uuid "f5bc746a-863f-4dc7-a230-229e9b49b997")
-		(at 236.245 116.65 -90)
+		(at 247.406 115.6 -90)
 		(property "Reference" "J2"
 			(at 0 -0.5 -90)
 			(unlocked yes)
@@ -7644,7 +7986,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "fe0f6fb6-4711-4329-bd01-7802c8f5175c")
-		(at 170.15 111.98 180)
+		(at 179.324 110.998 180)
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=12.7mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 12.7mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "R15"
@@ -7915,5 +8257,130 @@
 				(xyz 0 0 0)
 			)
 		)
+	)
+	(footprint "MountingHole:MountingHole_2.7mm_M2.5"
+		(layer "F.Cu")
+		(uuid "fe4158ad-cb48-42e5-b299-82435fc8a034")
+		(at 75.438 107.188)
+		(descr "Mounting Hole 2.7mm, no annular, M2.5")
+		(tags "mounting hole 2.7mm no annular m2.5")
+		(property "Reference" "H4"
+			(at 0 -3.7 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "4ccc3405-4ab0-4f0c-9ec7-8069f27166e3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 0 3.7 0)
+			(layer "F.Fab")
+			(uuid "4cae1066-5339-40a9-86a7-9d47bb5758e1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "19892ded-d4d9-4cd4-8bb8-1580b879b524")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e6ca1edb-b7b6-4f25-98c9-5998d9b0f568")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "19c559c9-e261-4693-afd6-0403731423a1")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "MountingHole*")
+		(path "/5e33aa1e-0722-4214-8306-e1f404cb2ab0")
+		(sheetname "Root")
+		(sheetfile "FoxHuntAttenuator.kicad_sch")
+		(attr exclude_from_pos_files exclude_from_bom)
+		(fp_circle
+			(center 0 0)
+			(end 2.7 0)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(fill none)
+			(layer "Cmts.User")
+			(uuid "08135d17-67f9-4108-a912-d019b5697390")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 2.95 0)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill none)
+			(layer "F.CrtYd")
+			(uuid "45443deb-0003-487a-98f7-813eddf3208b")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "45c3571f-69d2-484e-a24e-aebbc9e53f85")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "" np_thru_hole circle
+			(at 0 0)
+			(size 2.7 2.7)
+			(drill 2.7)
+			(layers "*.Cu" "*.Mask")
+			(uuid "97b60bad-1a46-4934-be2b-066e11a65863")
+		)
+	)
+	(gr_rect
+		(start 69.85 102.108)
+		(end 257.048 138.684)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill none)
+		(layer "Edge.Cuts")
+		(uuid "98c7f010-fa52-4030-912f-b8169cde154c")
 	)
 )
