@@ -1740,6 +1740,149 @@
 			)
 		)
 	)
+	(footprint "FoxHuntAttenuator:CONBNC002"
+		(layer "F.Cu")
+		(uuid "2b6f580d-6642-48a0-9815-6788c032012b")
+		(at 79.492 125.456 90)
+		(property "Reference" "J1"
+			(at 13.442 -2.022 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(uuid "c3cae9e3-7e23-4073-a039-b62302202495")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Value" "Conn_Coaxial"
+			(at 0 1 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "e2341812-4748-4ef0-84d7-9e4779485d2a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "FoxHuntAttenuator:CONBNC002"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ff6a62cd-5770-4ab3-b4cb-63036186a5c0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bb40665b-ac47-4146-98b4-e1a9cdacce8d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "70b40b85-8181-408d-b4df-07017d590ee0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*")
+		(path "/a2a3efe4-2c68-4541-a928-8cf411841441")
+		(sheetname "Root")
+		(sheetfile "FoxHuntAttenuator.kicad_sch")
+		(attr through_hole)
+		(fp_rect
+			(start -2.4 -9.67)
+			(end 12.5 5.23)
+			(stroke
+				(width 0.1)
+				(type default)
+			)
+			(fill none)
+			(layer "F.SilkS")
+			(uuid "ef4afe81-ccde-46cb-8e51-bb9388a4b0be")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 2.5 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "a18d1225-4f5f-43f6-ae77-ca601fb441c6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "" np_thru_hole circle
+			(at 0 0.02 90)
+			(size 2 2)
+			(drill 2)
+			(layers "F&B.Cu" "*.Mask")
+			(uuid "6edaaff9-d338-4517-8133-ae77aceb28cf")
+		)
+		(pad "" np_thru_hole circle
+			(at 10.14 0.01 90)
+			(size 2 2)
+			(drill 2)
+			(layers "F&B.Cu" "*.Mask")
+			(uuid "8d860269-7c18-4d54-afeb-948815c75843")
+		)
+		(pad "1" thru_hole circle
+			(at 5.06 5.09 90)
+			(size 2 2)
+			(drill 0.89)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 4 "Net-(J1-In)")
+			(pinfunction "In")
+			(pintype "passive")
+			(uuid "0b9b57d5-beac-4b35-818c-7861ed9abb40")
+		)
+		(pad "2" thru_hole circle
+			(at 2.51 5.08 90)
+			(size 2 2)
+			(drill 0.89)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 1 "GND")
+			(pinfunction "Ext")
+			(pintype "passive")
+			(uuid "5b4ea9d6-9974-4691-baad-a9ccfa9b1a0a")
+		)
+		(model "${KIPRJMOD}/lib/CONBNC002.step"
+			(offset
+				(xyz 5 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 180)
+			)
+		)
+	)
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "2e997fa0-67c3-4274-8e69-8a3df220e16c")
@@ -4914,6 +5057,149 @@
 			(uuid "aa89f942-4a84-454b-b9e8-ea3f65c16724")
 		)
 	)
+	(footprint "FoxHuntAttenuator:CONBNC002"
+		(layer "F.Cu")
+		(uuid "8b824961-2549-4d09-98c4-51f666afe084")
+		(at 247.406 115.59 -90)
+		(property "Reference" "J2"
+			(at -3.322 -1.768 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(uuid "f92ecd25-f418-4464-a3e1-63b024b2cab8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Value" "Conn_Coaxial"
+			(at 0 1 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "b6b6f8a1-a17a-408b-ace4-06345db7f569")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "FoxHuntAttenuator:CONBNC002"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b188dabe-6120-47a3-9414-52f4cbf97187")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e6f9b1ec-38a0-47a9-bc47-a3be712ba645")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bafa436f-669c-423d-b5c3-cac8a08e6d38")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*")
+		(path "/685fade9-9c1e-4b4a-8121-03272dc73e56")
+		(sheetname "Root")
+		(sheetfile "FoxHuntAttenuator.kicad_sch")
+		(attr through_hole)
+		(fp_rect
+			(start -2.4 -9.67)
+			(end 12.5 5.23)
+			(stroke
+				(width 0.1)
+				(type default)
+			)
+			(fill none)
+			(layer "F.SilkS")
+			(uuid "38fe5d98-abc4-4e1b-9978-7108c4eb61b1")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 2.5 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "0d713306-7337-41df-ae61-35b283b31672")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "" np_thru_hole circle
+			(at 0 0.02 270)
+			(size 2 2)
+			(drill 2)
+			(layers "F&B.Cu" "*.Mask")
+			(uuid "a6712b5d-e331-4af7-bb5a-e20a8e1ce7bd")
+		)
+		(pad "" np_thru_hole circle
+			(at 10.14 0.01 270)
+			(size 2 2)
+			(drill 2)
+			(layers "F&B.Cu" "*.Mask")
+			(uuid "83ae69e1-9180-4c7d-adb0-183b7c432b01")
+		)
+		(pad "1" thru_hole circle
+			(at 5.06 5.09 270)
+			(size 2 2)
+			(drill 0.89)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 10 "Net-(J2-In)")
+			(pinfunction "In")
+			(pintype "passive")
+			(uuid "9bacfdf6-472d-4c4c-90b0-1192a8661632")
+		)
+		(pad "2" thru_hole circle
+			(at 2.51 5.08 270)
+			(size 2 2)
+			(drill 0.89)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 1 "GND")
+			(pinfunction "Ext")
+			(pintype "passive")
+			(uuid "c0133a5a-7fe0-4ed5-914f-41b02943d715")
+		)
+		(model "${KIPRJMOD}/lib/CONBNC002.step"
+			(offset
+				(xyz 5 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 180)
+			)
+		)
+	)
 	(footprint "FoxHuntAttenuator:SWT3"
 		(layer "F.Cu")
 		(uuid "90e59301-cf12-4d0a-b1e7-3b97c1132606")
@@ -7418,151 +7704,6 @@
 			)
 		)
 	)
-	(footprint "FoxHuntAttenuator:CONBNC002"
-		(layer "F.Cu")
-		(uuid "f1a5d708-e095-47cc-9447-52c3ad986229")
-		(at 79.492 125.456 90)
-		(property "Reference" "J1"
-			(at 0 -0.5 90)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(uuid "85a7d9ac-0fae-48b1-ac7f-11b89659fa48")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.1)
-				)
-			)
-		)
-		(property "Value" "Conn_Coaxial"
-			(at 0 1 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(uuid "2feadb11-0fb5-4e71-9d9b-ed6c87ecb943")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "FoxHuntAttenuator:CONBNC002"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b1d0feae-c1f1-452c-af18-9b6622bddea1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8834b58a-9fc8-4582-8924-7fca002cc2b2")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e78ed844-1c67-4174-a66d-5530519bf48e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property ki_fp_filters "*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*")
-		(path "/a2a3efe4-2c68-4541-a928-8cf411841441")
-		(sheetname "Root")
-		(sheetfile "FoxHuntAttenuator.kicad_sch")
-		(attr through_hole)
-		(fp_rect
-			(start -2.4 -9.67)
-			(end 12.5 5.23)
-			(stroke
-				(width 0.1)
-				(type default)
-			)
-			(fill none)
-			(layer "F.SilkS")
-			(uuid "09fc500f-c8e1-4114-adb5-edf3bc257208")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 2.5 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(uuid "536b164a-a97f-4223-ba85-103f0541909f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "1" thru_hole circle
-			(at 0 0.02 90)
-			(size 4 4)
-			(drill 2)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net 4 "Net-(J1-In)")
-			(pinfunction "In")
-			(pintype "passive")
-			(uuid "87028981-e233-4d01-97da-baf789867dd5")
-		)
-		(pad "2" thru_hole circle
-			(at 10.14 0.01 90)
-			(size 4 4)
-			(drill 2)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net 1 "GND")
-			(pinfunction "Ext")
-			(pintype "passive")
-			(uuid "56beb9e9-95e8-41b8-b6c8-c814783b3d54")
-		)
-		(pad "3" thru_hole circle
-			(at 5.06 5.09 90)
-			(size 2 2)
-			(drill 0.89)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(uuid "94c06ec1-58ec-4a89-8821-2af7bf2e3f78")
-		)
-		(pad "4" thru_hole circle
-			(at 2.51 5.08 90)
-			(size 2 2)
-			(drill 0.89)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(uuid "e454f144-ae4f-4c47-823a-780a9db3ec20")
-		)
-		(model "${KIPRJMOD}/lib/CONBNC002.step"
-			(offset
-				(xyz 5 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -90 0 180)
-			)
-		)
-	)
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "f1aa83ac-6650-4a7e-b808-13ca39404b8d")
@@ -7835,151 +7976,6 @@
 			)
 			(rotate
 				(xyz 0 0 0)
-			)
-		)
-	)
-	(footprint "FoxHuntAttenuator:CONBNC002"
-		(layer "F.Cu")
-		(uuid "f5bc746a-863f-4dc7-a230-229e9b49b997")
-		(at 247.406 115.6 -90)
-		(property "Reference" "J2"
-			(at 0 -0.5 -90)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(uuid "46eaeb7d-3983-4011-a850-0dfa24d8d820")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.1)
-				)
-			)
-		)
-		(property "Value" "Conn_Coaxial"
-			(at 0 1 -90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(uuid "365ea68a-9bdf-4cb6-bb6f-ed775d3e008a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" "FoxHuntAttenuator:CONBNC002"
-			(at 0 0 -90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "44bf9653-7f73-4366-80d5-99c6ebd17f29")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 -90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "303bbb7f-7fcb-4c58-87d4-45991217218b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
-			(at 0 0 -90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "6a4bc13d-622b-4e7a-8c15-2028f9f7fdf5")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property ki_fp_filters "*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*")
-		(path "/685fade9-9c1e-4b4a-8121-03272dc73e56")
-		(sheetname "Root")
-		(sheetfile "FoxHuntAttenuator.kicad_sch")
-		(attr through_hole)
-		(fp_rect
-			(start -2.4 -9.67)
-			(end 12.5 5.23)
-			(stroke
-				(width 0.1)
-				(type default)
-			)
-			(fill none)
-			(layer "F.SilkS")
-			(uuid "199a5d2c-46de-4fda-aa85-34ca63c36e40")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 2.5 -90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(uuid "b12fda13-3501-4018-9f62-dc0445e1c777")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "1" thru_hole circle
-			(at 0 0.02 270)
-			(size 4 4)
-			(drill 2)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net 10 "Net-(J2-In)")
-			(pinfunction "In")
-			(pintype "passive")
-			(uuid "14de3885-e592-4868-9253-40a71683f5a9")
-		)
-		(pad "2" thru_hole circle
-			(at 10.14 0.01 270)
-			(size 4 4)
-			(drill 2)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net 1 "GND")
-			(pinfunction "Ext")
-			(pintype "passive")
-			(uuid "a58b9ccc-c97c-4a51-9118-738a8fbc6e08")
-		)
-		(pad "3" thru_hole circle
-			(at 5.06 5.09 270)
-			(size 2 2)
-			(drill 0.89)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(uuid "cdcb231e-f170-4384-8f86-9434ad05786d")
-		)
-		(pad "4" thru_hole circle
-			(at 2.51 5.08 270)
-			(size 2 2)
-			(drill 0.89)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(uuid "dd7f8266-2c03-4624-a1f8-807369de2e68")
-		)
-		(model "${KIPRJMOD}/lib/CONBNC002.step"
-			(offset
-				(xyz 5 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -90 0 180)
 			)
 		)
 	)
