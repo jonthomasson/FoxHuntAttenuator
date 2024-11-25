@@ -92,7 +92,7 @@
 	)
 	(pad "1" thru_hole circle
 		(at 0.04 -0.01)
-		(size 2.2 2.2)
+		(size 2.1 2.1)
 		(drill 1.5)
 		(layers "*.Cu" "*.Mask" "Eco1.User")
 		(remove_unused_layers no)
@@ -100,7 +100,7 @@
 	)
 	(pad "2" thru_hole circle
 		(at 2.53 -0.01)
-		(size 2.2 2.2)
+		(size 2.1 2.1)
 		(drill 1.5)
 		(layers "*.Cu" "*.Mask" "Eco1.User")
 		(remove_unused_layers no)
