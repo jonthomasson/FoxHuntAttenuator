@@ -78,6 +78,32 @@
 		(layer "F.SilkS")
 		(uuid "08ef0ad2-17d4-4fee-9bdd-680e545d2bb7")
 	)
+	(fp_text user "ON"
+		(at -1.08 2.79 -90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "312139ea-9a34-49b2-b70b-f2d34e3d93dd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "OFF"
+		(at 4.01 2.8 -90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "9c7e97bb-88dc-4ab6-a6e9-8a45685c8fab")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(fp_text user "${REFERENCE}"
 		(at 0 2.5 0)
 		(unlocked yes)
