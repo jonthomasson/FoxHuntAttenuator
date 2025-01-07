@@ -1890,7 +1890,7 @@
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=12.7mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 12.7mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "R11"
-			(at 14.79 0.02 360)
+			(at 14.79 0.02 0)
 			(layer "F.SilkS")
 			(uuid "682b06a7-cd14-4f77-b3a4-b0b9a0e90ecc")
 			(effects
@@ -4244,7 +4244,7 @@
 		(descr "Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=12.7mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0309 series Axial Horizontal pin pitch 12.7mm 0.5W = 1/2W length 9mm diameter 3.2mm")
 		(property "Reference" "R5"
-			(at -2.032 0 360)
+			(at -2.032 0 0)
 			(layer "F.SilkS")
 			(uuid "f8be8363-3688-4da5-aff8-5ed26f94b153")
 			(effects
@@ -8588,7 +8588,7 @@
 		(uuid "98c7f010-fa52-4030-912f-b8169cde154c")
 	)
 	(gr_text "FOXHUNT PI ATTENUATOR NETWORK"
-		(at 150.59 105.11 0)
+		(at 143.99 105.07 0)
 		(layer "F.SilkS")
 		(uuid "88587e3a-4a89-4296-907f-9e6970f58ffc")
 		(effects
@@ -8601,7 +8601,7 @@
 		)
 	)
 	(gr_text "0-144dB Attenuation. Each toggle on will give an additional 18dB of attenuation."
-		(at 120.26 136.2 0)
+		(at 116.95 135.81 0)
 		(layer "F.SilkS")
 		(uuid "a454bf9b-0797-4378-8854-c2464ce8a8dd")
 		(effects
